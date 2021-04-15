@@ -32,3 +32,4 @@ mlruns
 # files reserved for local repo #
 .env
 raw_data/
+data/
